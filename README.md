@@ -26,6 +26,8 @@ This a simple chess application where 2 players can compete with each other
 
 1. Flutter framework
 
+### The .apk file is provided in the root directory itself. Feel free to try it out and let me know if you encounter any issues/errors
+
 ## Authors
 
 Haider Dawasaz
