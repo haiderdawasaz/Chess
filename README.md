@@ -26,7 +26,18 @@ This a simple chess application where 2 players can compete with each other
 
 1. Flutter framework
 
-The .apk file is provided in the root directory itself. Feel free to try it out and let me know if you encounter any issues/errors
+## Steps to Run the Application
+
+### 1. On Android Devices
+
+The chess.apk file is provided in the root directory itself. Feel free to try it out and let me know if you encounter any issues/errors.
+
+### 2. On PC using Emulator
+
+1. Download [Android Studio](https://developer.android.com/studio)
+2. Install an Emulator. [Click here](https://medium.com/@abdalqader27.najjar/how-to-install-emulator-on-android-studio-95eb101e604b) to get the steps
+3. Launch the Emulator.
+4. Run main.dart file from VSCode.
 
 ## Authors
 
