@@ -49,7 +49,8 @@ class GameState extends State<Game> {
 
   @override
   void dispose() {
-
+    player1notifier.dispose();
+    player2notifier.dispose();
     super.dispose();
   }
 }
